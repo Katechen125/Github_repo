@@ -1,1 +1,3 @@
-# Github_repo
+Team name: The Boolean Bandits
+
+Devin Kate
